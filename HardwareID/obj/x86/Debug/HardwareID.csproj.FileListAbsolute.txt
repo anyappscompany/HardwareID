@@ -1,0 +1,9 @@
+c:\users\maulder\documents\visual studio 10\Projects\HardwareID\HardwareID\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\maulder\documents\visual studio 10\Projects\HardwareID\HardwareID\obj\x86\Debug\HardwareID.Properties.Resources.resources
+c:\users\maulder\documents\visual studio 10\Projects\HardwareID\HardwareID\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+c:\users\maulder\documents\visual studio 10\Projects\HardwareID\HardwareID\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+c:\users\maulder\documents\visual studio 10\Projects\HardwareID\HardwareID\obj\x86\Debug\HardwareID.Form1.resources
+c:\users\maulder\documents\visual studio 10\Projects\HardwareID\HardwareID\bin\Debug\HardwareID.exe
+c:\users\maulder\documents\visual studio 10\Projects\HardwareID\HardwareID\bin\Debug\HardwareID.pdb
+c:\users\maulder\documents\visual studio 10\Projects\HardwareID\HardwareID\obj\x86\Debug\HardwareID.exe
+c:\users\maulder\documents\visual studio 10\Projects\HardwareID\HardwareID\obj\x86\Debug\HardwareID.pdb
